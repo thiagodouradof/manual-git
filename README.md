@@ -76,7 +76,7 @@ Mostra os úttimos commits que foram feitos.
 
 Retornar arquivos modificados, para voltarem ao estado que está na branch.
 Podem trazer um arquivo de: 
-- staged chnages para changes(git restore --staged .\nomeArquivo)
+- staged changes para changes(git restore --staged .\nomeArquivo)
 - changes para original
 
 ## git push
